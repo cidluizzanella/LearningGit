@@ -1,2 +1,2 @@
 # LearningGit
-Blank
+Blank is not good! Write it down!
